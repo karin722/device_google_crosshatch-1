@@ -685,7 +685,4 @@
     <string-array name="config_disableApkUnlessMatchedSku_skus_list" translatable="false">
         <item>G013B</item>
     </string-array>
-
-    <dimen name="rounded_corner_radius">70px</dimen>
-
 </resources>
