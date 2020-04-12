@@ -36,9 +36,4 @@
 
     <!-- Doze: whether the double tap sensor reports 2D touch coordinates -->
     <bool name="doze_double_tap_reports_touch_coordinates">true</bool>
-
-    <!-- The default tiles to display in QuickSettings -->
-    <string name="quick_settings_tiles_default" translatable="false">
-        wifi,nfc,hotspot,usb_tether,airplane,flashlight,cell
-    </string>
 </resources>
